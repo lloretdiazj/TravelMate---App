@@ -1,0 +1,38 @@
+# Archivos de construcción
+/build/
+/app/build/
+
+# Archivos de configuración local
+/local.properties
+
+# Archivos de caché
+/.gradle/
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Archivos de configuración de usuario
+.idea/misc.xml
+.idea/vcs.xml
+.idea/dictionaries
+.idea/httpRequests
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+
+# Archivos de configuración de Android Studio
+*.iml
+
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
