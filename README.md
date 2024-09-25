@@ -3,26 +3,7 @@ author: Josep Lloret Díaz
 title: Documentación TravelMate - IES Doctor Balmis - 2º DAM B - Curso 23/24
 ---
 
-<style>
 
-.img {
-  display: flex;
-  justify-content: center;
-}
-.capturas {
-  display: flex;
-  justify-content: space-between;
-  padding: 0px 90px
-}
-
-#diagramaclases{
-         transform: rotate(90deg);
-    }
-
-body {
-  text-align: justify;
-}
-</style>
 
 # <center> **Documentación Proyecto Fin De Curso**  </center>
 
