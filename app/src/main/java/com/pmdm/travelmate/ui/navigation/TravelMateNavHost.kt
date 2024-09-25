@@ -52,7 +52,7 @@ fun TravelMateNavHost() {
     val muestraLugaresViewModel: MuestraLugaresViewModel = hiltViewModel()
     val coroutineScope = rememberCoroutineScope()
     val context = LocalContext.current
-    Places.initialize(context, "AIzaSyBdp6Z2JYZIGALm_8Td6A_5upfyUjy699g")
+    Places.initialize(context, "")
 
     NavHost(
         navController = navController,
